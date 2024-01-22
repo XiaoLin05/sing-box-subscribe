@@ -810,7 +810,7 @@
         "tag": "geosite-category-ads-all",
         "type": "remote",
         "format": "binary",
-        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/category-ads-all.srs",
+        "url": "https://fastly.jsdelivr.net/gh/shangguanhongxin/for-sing-box-and-surge@master/sing-box%2FAdvertising%2FAdvertising_Domain.srs",
         "download_detour": "direct"
       }
     ]
